@@ -1,0 +1,19 @@
+div p {
+    color: purple;
+}
+
+ul > li {
+    list-style-type: upper-roman;
+}
+
+p + p {
+    background-color: coral;
+}
+
+p ~ span {
+    font-weight: 900;
+}
+
+span {
+    color: red;
+}

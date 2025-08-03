@@ -1,0 +1,18 @@
+p.fancy {
+    color: burlywood;
+    font-size: 24px;
+}
+
+div#some-id {
+    background-color: crimson;
+    padding: 0.1rem;
+}
+
+p[class|="normal"] {
+    color: green;
+    padding: 0.2rem;
+}
+
+.some-class1, .some-class2 {
+    color: royalblue;
+}

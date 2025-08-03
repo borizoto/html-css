@@ -1,0 +1,23 @@
+nav ul li:nth-child(1) {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav ul li:nth-child(2) {
+    font-weight: bold;
+}
+
+nav ul li:nth-child(3) {
+    font-style: italic;
+}
+
+a {
+ text-decoration: none;
+}
+
+.services {
+    font-size: 36px;
+}
+
+.desc {
+    background-color: aqua;
+}

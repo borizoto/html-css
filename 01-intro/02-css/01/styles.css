@@ -1,0 +1,31 @@
+h1 {
+    color: aqua;
+}
+
+p {
+    font-size: 24px;
+}
+
+.highlight {
+    background-color: pink;
+}
+
+#main-title {
+    color: chocolate;
+}
+
+#special-paragraph {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: lower-alpha;
+}
+
+li {
+    color: darkmagenta;
+}
+
+div {
+    background-color: chartreuse;
+}
