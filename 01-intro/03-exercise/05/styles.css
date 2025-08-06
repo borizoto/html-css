@@ -1,0 +1,8 @@
+.blog-post h1,
+.blog-post h2 {
+    margin-top: 0;
+}
+
+.blog-post .author {
+    font-weight: bold;
+}

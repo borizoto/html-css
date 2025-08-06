@@ -1,0 +1,15 @@
+.blog-posts h2 {
+    margin-top: 0;
+}
+
+.blog-posts header p{
+    color: grey;
+}
+
+.blog-posts .author {
+    font-weight: bold;
+}
+
+.blog-posts time {
+    font-style: italic;
+}
