@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+main div {
+    border: 2px solid black;
+    padding: 0.5em;
+    margin: 1em
+}
+
+main div.fixed {
+    height: 200px;
+}
+
+main div.percentage {
+    height: 50%;
+}
+
+main div.viewport {
+    height: 50vh;
+}
+
+main div.min-max {
+    min-height: 100px;
+    max-height: 300px;
+}

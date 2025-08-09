@@ -1,0 +1,74 @@
+html {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Helvetica, sans-serif;
+}
+
+p,
+ul,
+ol {
+    padding-bottom: 1.5rem;
+}
+
+ul,
+ol {
+    padding-left: 1.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    line-height: 1.2;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-family: Georgia;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    margin-bottom: 1.5rem;
+    border: 1px solid #CCC;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table td,
+table th {
+    border: 1px solid #CCC;
+    padding: 0.3rem 0.5rem;
+}
+
+table thead th {
+    text-align: left;
+    background: #CCC;
+}
+
+table tr:nth-child(odd) td {
+    background: #F1F1F1;
+}
+
+table tr:hover td {
+    background: black;
+    color: #FFF;
+    border-color: transparent;
+}
+
+hr {
+    margin: 2rem 0;
+}
+
+blockquote {
+    border-left: 4px solid rgb(221, 221, 221);
+    font-style: italic;
+    margin: 0 0 1.5rem 2rem;
+    padding: 1rem 2rem;
+    position: relative;
+}
+
+blockquote p.author {
+    text-align: right;
+}

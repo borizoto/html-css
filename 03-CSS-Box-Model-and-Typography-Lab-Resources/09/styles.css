@@ -1,0 +1,30 @@
+html {
+    font-size: 16px;
+}
+
+div {
+    border: 2px solid black;
+    padding: 0.5em;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+div.first {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.second {
+    font-size: 24px;
+}
+
+div.third {
+    font-weight: bold;
+}
+
+div.fourth {
+    font-style: italic;
+}
+
+div.fifth {
+    font-variant: small-caps;
+}
